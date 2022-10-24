@@ -1,1 +1,1 @@
-# CS5344_twitter_bots_eda
+# CS5344_twitter_bots
