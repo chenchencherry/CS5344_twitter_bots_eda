@@ -8,19 +8,33 @@ https://www.kaggle.com/code/kerneler/starter-twitter-bots-accounts-cbbb9288-f/da
 
 ## Features
 The features for this classification model is account-level information of Twitter users.
+
 created_at： the hour a certain account is created
+
 default_profile: whether an account has a default profile
+
 default_profile_image: whether an account uses default profile image
+
 favourites_count: total number of favourites an account has made
+
 followers_count: total number of followers
+
 friends_count: total number of friends
+
 geo_enabled: whether an account opens positioning
+
 statuses_count: total number of tweets
+
 verified: whether the account is verified
+
 average_tweets_per_day: number of tweets posted per day
+
 popularity: metric of account’s importance in social relationship
+
 favourites_rate: number of favourites tweets per day
+
 follower_rate: number of followers per day
+
 friend_rate: number of friends per day
 
 ## EDA
